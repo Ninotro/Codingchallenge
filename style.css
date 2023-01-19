@@ -1,0 +1,98 @@
+/* selettore {
+    proprieta,valore;
+} */
+
+body  {
+    background-image: url(immagini/SFONDO.jpg);
+    background-size: cover;
+   }
+   header {
+    text-align: center;
+   }
+
+#Logo {
+    width: 250px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    
+}
+
+#Titolo {
+    font-size: 40px;
+    color: rgba(0,221,0,255);
+   margin-top: 0
+   ;
+
+}
+
+.Navigazione {
+    
+    background-color:rgba(0,221,0,255);
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-size: 50% 50%;
+    
+    
+}
+main {
+   margin-left: 5%;
+   margin-top: 5%;
+   box-sizing: border-box;
+
+   
+}
+.Testo1 {
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    font-style: sans-serif;
+    font: weight 800px;;
+    
+
+}
+
+.Testo2 , .Testo3  {
+    
+    color: white;
+    font-size: 20px;
+    font-style: sans-serif;
+    margin-top: 5px;
+    opacity: 0.7;
+}
+.Barra1 {
+    height: 30px;
+    background-color: orange;
+    margin-right: 700px;
+     
+    
+    }
+    .Barra2 {
+        height: 30px;
+        background-color: green;
+        margin-right:  400px;
+    }
+    .Barra3 {
+        height: 30px;
+        background-color: rgb(138, 32, 32);
+        margin-right: 750px ;
+        
+        ;
+    }
+    .Tabella {
+        background: rgb(0, 0, 0);
+        background: rgba(0, 0, 0, 0.6);
+        margin-left: 20%;
+        margin-right: 10%;
+        margin-top: 5%;
+        margin-bottom: 10%;
+        padding-bottom: 5%;
+        padding-top: 5%;
+        border-radius: 20px;
+        box-sizing: border-box;
+        
+     
+       
+    }
